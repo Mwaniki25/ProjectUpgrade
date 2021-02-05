@@ -3,6 +3,9 @@
 # Gives strategies on how MTN will upgrade it's infrastructure, {version 1.0 2021}
 # By Dennis Mwaniki Data Scientist.
 ## Description
+
+Setup/Installation Requirements Use Google Colab or Jupyter Notebook for data preparation and analysis. Import pandas and Numpy libraries for data manipulation. 
+
 This is a data analysis and evaluation project to ensure the correct upgrade strategeies are chosen.
 Involves the collection of required data and proceeds through activities for getting familiar with the data. Assessment of sources, 
 quality and characteristics of the data are accomplished in this phase along with understanding the data and requirements. It involves the following steps: 
