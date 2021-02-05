@@ -23,5 +23,5 @@ Incase of any questions contact Mwaniki, Senior Data Scientist.
 email: dkiki48@gmail.com
 # License
 
-Copyright (c) 2021 Moringa School
+Copyright (c) {2021} {Moringa School} {Data Science}
   
